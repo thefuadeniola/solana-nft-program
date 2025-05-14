@@ -1,0 +1,11 @@
+
+{
+    "name": "Na SCRA",
+    "symbol": "SCRA",
+    "description": "A test for our NFT example.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://blush-soft-cricket-531.mypinata.cloud/ipfs/QmYVHdhu74JZqjaZfceXArwKcNDU2cp6z7JqBGcmDmxf19"
+}
